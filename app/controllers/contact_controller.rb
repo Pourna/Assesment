@@ -10,15 +10,24 @@ class ContactController < ApplicationController
     redirect_to('/contact')
   end
 
+  # Controller method to create user data
+  def new
+    @user = User.new
+  end
+
   # Controller method to save user data
   def save
-    params.permit!
-    params_hash = params.to_h
+    @user = User.new(user_params)
 
     # Tell the UserMailer to send a welcome email after save
-    UserMailer.with(params: params_hash).welcome_email.deliver
+    UserMailer.with(user: @user).welcome_email.deliver
 
-    # TEST form values gets rendered to controller method
-    redirect_to('/404')
+    # Redirect to same form page
+    redirect_to('/contact')
+  end
+
+  # Only allow a list of trusted parameters through.
+  def user_params
+    params.permit(:first_name, :last_name, :email, :phone, :message)
   end
 end

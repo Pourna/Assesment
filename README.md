@@ -19,13 +19,23 @@ rvm use <version_in_.ruby-version>
 gem install bundler
 bundle install
 ```
+* Database creation
 
-* System dependencies
+Run `rake db:migrate` to perform DB migration  
 
 * Configuration
 
-* Database creation
+Configure email setting in `config/email.yml` file, 
+ by editing the username and password to the required admin accounts
+ 
+```
+:domain: gmail.com
+:user_name: testmailercontactv17
+:password: Testmail@1
+``` 
 
+* System dependencies
+ 
 * Database initialization
 
 * How to run the test suite

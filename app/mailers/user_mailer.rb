@@ -1,11 +1,11 @@
 class UserMailer < ApplicationMailer
-  default from: 'pournachandran@gmail.com'
+  default from: 'notiication@gmail.com'
 
-  layout "mailer"
+  layout 'mailer'
 
   def welcome_email
-    @user = params[:firstname]
+    @user = params[:user]
     @url  = 'http://example.com/login'
-    mail(to: "sspourna.shoden@gmail.com", subject: 'Welcome to ContactV17')
+    mail(to: @user.email, subject: 'Welcome to ContactV17')
   end
 end
