@@ -21,7 +21,8 @@ bundle install
 ```
 * Database creation
 
-Run `rake db:migrate` to perform DB migration  
+1. Run `rake db:create` to create new DB for dev and test domains
+2. Run `rake db:migrate` to perform DB migration  
 
 * Configuration
 
@@ -33,15 +34,8 @@ Configure email setting in `config/email.yml` file,
 :user_name: testmailercontactv17
 :password: Testmail@1
 ``` 
-
-* System dependencies
- 
-* Database initialization
-
 * How to run the test suite
+  Run `bundle exec rspec` to execute test cases
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* How to start application 
+  Run `rails server` in terminal and hit `http://localhost:3000` in browser

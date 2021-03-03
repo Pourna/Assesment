@@ -3,16 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="64214d84-1f9e-4e76-88a7-41c6d3b83916" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/ROR_Assignment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ROR_Assignment.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/contact_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/contact_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/users_controller.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/mailers/user_mailer.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/mailers/user_mailer.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/user.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/database.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config/database.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coverage/.resultset.json" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/.resultset.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coverage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -32,14 +32,14 @@
     <SUITE FILE_PATH="coverage/ROR_Assignment@ContactController_test__ROR_Assignment.rcov" NAME="ContactController test: ROR_Assignment Coverage Results" MODIFIED="1614776573430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ROR_Assignment" />
     <SUITE FILE_PATH="coverage/ROR_Assignment@test__ROR_Assignment.rcov" NAME="test: ROR_Assignment Coverage Results" MODIFIED="1614783230417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ROR_Assignment" />
     <SUITE FILE_PATH="coverage/ROR_Assignment@ContactController_route__ROR_Assignment.rcov" NAME="ContactController route: ROR_Assignment Coverage Results" MODIFIED="1614776860650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ROR_Assignment" />
-    <SUITE FILE_PATH="coverage/ROR_Assignment@spec__ROR_Assignment.rcov" NAME="spec: ROR_Assignment Coverage Results" MODIFIED="1614785577474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ROR_Assignment" />
+    <SUITE FILE_PATH="coverage/ROR_Assignment@spec__ROR_Assignment.rcov" NAME="spec: ROR_Assignment Coverage Results" MODIFIED="1614787277253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ROR_Assignment" />
     <SUITE FILE_PATH="coverage/ROR_Assignment@ContactController_status_404__ROR_Assignment.rcov" NAME="ContactController status 404: ROR_Assignment Coverage Results" MODIFIED="1614782684155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ROR_Assignment" />
     <SUITE FILE_PATH="coverage/ROR_Assignment@ContactController_create__ROR_Assignment.rcov" NAME="ContactController create: ROR_Assignment Coverage Results" MODIFIED="1614777419410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ROR_Assignment" />
     <SUITE FILE_PATH="coverage/ROR_Assignment@status_404__ROR_Assignment.rcov" NAME="status 404: ROR_Assignment Coverage Results" MODIFIED="1614781283076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ROR_Assignment" />
     <SUITE FILE_PATH="coverage/ROR_Assignment@Run_test__user_spec___ROR_Assignment.rcov" NAME="Run test 'user_spec': ROR_Assignment Coverage Results" MODIFIED="1614783317256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ROR_Assignment" />
     <SUITE FILE_PATH="coverage/ROR_Assignment@ContactController_index_blows_up__ROR_Assignment.rcov" NAME="ContactController index blows up: ROR_Assignment Coverage Results" MODIFIED="1614785244783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ROR_Assignment" />
     <SUITE FILE_PATH="coverage/ROR_Assignment@ContactController_index__ROR_Assignment.rcov" NAME="ContactController index: ROR_Assignment Coverage Results" MODIFIED="1614785360870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ROR_Assignment" />
-    <SUITE FILE_PATH="coverage/ROR_Assignment@Development__ROR_Assignment.rcov" NAME="Development: ROR_Assignment Coverage Results" MODIFIED="1614785506246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ROR_Assignment" />
+    <SUITE FILE_PATH="coverage/ROR_Assignment@Development__ROR_Assignment.rcov" NAME="Development: ROR_Assignment Coverage Results" MODIFIED="1614786948348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ROR_Assignment" />
     <SUITE FILE_PATH="coverage/ROR_Assignment@ApplicationController_status_404__ROR_Assignment.rcov" NAME="ApplicationController status 404: ROR_Assignment Coverage Results" MODIFIED="1614782248230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ROR_Assignment" />
     <SUITE FILE_PATH="coverage/ROR_Assignment@Run_test__UsersTest___ROR_Assignment.rcov" NAME="Run test 'UsersTest': ROR_Assignment Coverage Results" MODIFIED="1614750907021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ROR_Assignment" />
   </component>
@@ -54,16 +54,76 @@
     <option name="HIDDEN_KINDS">
       <set />
     </option>
-    <expand />
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test [2]" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
     <select />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/contact_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/ROR_Assignment.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="323">
+                <caret line="40" column="42" selection-start-line="40" selection-start-column="42" selection-end-line="40" selection-end-column="42" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/dataSources.local.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/dataSources.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/database.yml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/schema.rb">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="26" selection-start-line="21" selection-start-column="38" selection-end-line="22" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/coverage/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="81" lean-forward="true" selection-start-line="5" selection-start-column="81" selection-end-line="5" selection-end-column="81" />
+              <caret line="5" column="81" selection-start-line="5" selection-start-column="81" selection-end-line="5" selection-end-column="81" />
               <folding>
                 <element signature="e#7592#7596#0" expanded="true" />
                 <element signature="e#9670#9676#0" expanded="true" />
@@ -73,100 +133,23 @@
                 <element signature="e#12022#12026#0" expanded="true" />
                 <element signature="e#13443#13448#0" expanded="true" />
                 <element signature="e#13456#13461#0" expanded="true" />
-                <element signature="e#17305#17310#0" expanded="true" />
-                <element signature="e#17311#17316#0" expanded="true" />
-                <element signature="e#19847#19851#0" expanded="true" />
-                <element signature="e#20110#20115#0" expanded="true" />
-                <element signature="e#20131#20136#0" expanded="true" />
-                <element signature="e#20369#20374#0" expanded="true" />
-                <element signature="e#20380#20385#0" expanded="true" />
-                <element signature="e#21322#21326#0" expanded="true" />
-                <element signature="e#21584#21589#0" expanded="true" />
-                <element signature="e#21611#21616#0" expanded="true" />
-                <element signature="e#22538#22543#0" expanded="true" />
-                <element signature="e#22567#22572#0" expanded="true" />
-                <element signature="e#22831#22836#0" expanded="true" />
-                <element signature="e#22857#22862#0" expanded="true" />
-                <element signature="e#24012#24016#0" expanded="true" />
-                <element signature="e#25210#25214#0" expanded="true" />
-                <element signature="e#27816#27821#0" expanded="true" />
-                <element signature="e#27833#27838#0" expanded="true" />
-                <element signature="e#28284#28289#0" expanded="true" />
-                <element signature="e#28294#28299#0" expanded="true" />
-                <element signature="e#28571#28576#0" expanded="true" />
-                <element signature="e#28577#28582#0" expanded="true" />
-                <element signature="e#28855#28860#0" expanded="true" />
-                <element signature="e#28868#28873#0" expanded="true" />
-                <element signature="e#29540#29545#0" expanded="true" />
-                <element signature="e#29550#29555#0" expanded="true" />
-                <element signature="e#29807#29812#0" expanded="true" />
-                <element signature="e#29843#29848#0" expanded="true" />
-                <element signature="e#31199#31204#0" expanded="true" />
-                <element signature="e#31210#31215#0" expanded="true" />
-                <element signature="e#31467#31472#0" expanded="true" />
-                <element signature="e#31494#31499#0" expanded="true" />
-                <element signature="e#31942#31948#0" expanded="true" />
-                <element signature="e#31958#31964#0" expanded="true" />
-                <element signature="e#31966#31971#0" expanded="true" />
-                <element signature="e#31975#31980#0" expanded="true" />
-                <element signature="e#32184#32190#0" expanded="true" />
-                <element signature="e#32199#32205#0" expanded="true" />
-                <element signature="e#32207#32212#0" expanded="true" />
-                <element signature="e#32215#32220#0" expanded="true" />
-                <element signature="e#32424#32430#0" expanded="true" />
-                <element signature="e#32435#32441#0" expanded="true" />
-                <element signature="e#32443#32448#0" expanded="true" />
-                <element signature="e#32465#32470#0" expanded="true" />
-                <element signature="e#32674#32680#0" expanded="true" />
-                <element signature="e#32685#32691#0" expanded="true" />
-                <element signature="e#32693#32698#0" expanded="true" />
-                <element signature="e#32706#32711#0" expanded="true" />
-                <element signature="e#32915#32921#0" expanded="true" />
-                <element signature="e#32928#32934#0" expanded="true" />
-                <element signature="e#32936#32941#0" expanded="true" />
-                <element signature="e#32943#32948#0" expanded="true" />
-                <element signature="e#34512#34517#0" expanded="true" />
-                <element signature="e#34522#34527#0" expanded="true" />
-                <element signature="e#34779#34784#0" expanded="true" />
-                <element signature="e#34822#34827#0" expanded="true" />
-                <element signature="e#35122#35126#0" expanded="true" />
-                <element signature="e#35126#35132#0" expanded="true" />
-                <element signature="e#35136#35142#0" expanded="true" />
-                <element signature="e#35156#35160#0" expanded="true" />
-                <element signature="e#35160#35166#0" expanded="true" />
-                <element signature="e#35173#35179#0" expanded="true" />
-                <element signature="e#36726#36731#0" expanded="true" />
-                <element signature="e#36743#36748#0" expanded="true" />
-                <element signature="e#37181#37186#0" expanded="true" />
-                <element signature="e#37206#37211#0" expanded="true" />
+                <element signature="e#16224#16229#0" expanded="true" />
+                <element signature="e#16230#16235#0" expanded="true" />
+                <element signature="e#18766#18770#0" expanded="true" />
+                <element signature="e#19029#19034#0" expanded="true" />
+                <element signature="e#19050#19055#0" expanded="true" />
+                <element signature="e#19288#19293#0" expanded="true" />
+                <element signature="e#19299#19304#0" expanded="true" />
+                <element signature="e#20241#20245#0" expanded="true" />
+                <element signature="e#20503#20508#0" expanded="true" />
+                <element signature="e#20530#20535#0" expanded="true" />
+                <element signature="e#21457#21462#0" expanded="true" />
+                <element signature="e#21486#21491#0" expanded="true" />
+                <element signature="e#21750#21755#0" expanded="true" />
+                <element signature="e#21776#21781#0" expanded="true" />
+                <element signature="e#22931#22935#0" expanded="true" />
+                <element signature="e#24129#24133#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spec/controller/application_controller_spec.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spec/controller/contact_controller_spec.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="31" column="44" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/routes.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -174,44 +157,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/models/user.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spec/models/user_spec.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spec/rails_helper.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="975">
-              <caret line="65" selection-start-line="65" selection-end-line="65" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/contact_controller.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/gems/activerecord-6.0.3.5/lib/active_record/inheritance.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="49" column="10" selection-start-line="49" selection-start-column="10" selection-end-line="49" selection-end-column="10" />
+            <state relative-caret-position="75">
+              <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -224,6 +171,7 @@
       <find>rspec-core</find>
       <find>last_comment</find>
       <find>rspec</find>
+      <find>rake</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -234,10 +182,8 @@
       <list>
         <option value="$PROJECT_DIR$/app/views/user_mailer/welcome_email.html.erb" />
         <option value="$PROJECT_DIR$/app/views/user_mailer/welcome_email.text.erb" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/spec/spec_helper.rb" />
         <option value="$PROJECT_DIR$/spec/rails_helper.rb" />
-        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/public/contact.html" />
         <option value="$PROJECT_DIR$/app/views/users/show.html.erb" />
         <option value="$PROJECT_DIR$/app/views/contact/show_html.erb" />
@@ -246,10 +192,14 @@
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/spec/controller/application_controller_spec.rb" />
         <option value="$PROJECT_DIR$/app/mailers/user_mailer.rb" />
-        <option value="$PROJECT_DIR$/app/models/user.rb" />
         <option value="$PROJECT_DIR$/spec/models/user_spec.rb" />
         <option value="$PROJECT_DIR$/spec/controller/contact_controller_spec.rb" />
+        <option value="$PROJECT_DIR$/config/database.yml" />
+        <option value="$PROJECT_DIR$/Gemfile.lock" />
+        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/app/controllers/contact_controller.rb" />
+        <option value="$PROJECT_DIR$/app/models/user.rb" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -286,7 +236,12 @@
               <item name="ROR_Assignment" type="b2602c69:ProjectViewProjectNode" />
               <item name="ROR_Assignment" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ROR_Assignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ROR_Assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ROR_Assignment" type="b2602c69:ProjectViewProjectNode" />
@@ -320,7 +275,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Rake.spec: ROR_Assignment">
+  <component name="RunManager" selected="Rails.Development: ROR_Assignment">
     <configuration name="ApplicationController status 404: ROR_Assignment" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
       <module name="ROR_Assignment" />
       <predefined_log_file enabled="true" id="RUBY_RSPEC" />
@@ -606,17 +561,11 @@
       <workItem from="1614705761604" duration="1079000" />
       <workItem from="1614748213752" duration="2180000" />
       <workItem from="1614751895202" duration="7000" />
-      <workItem from="1614752107108" duration="19164000" />
+      <workItem from="1614752107108" duration="21087000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="spec__ROR_Assignment - 2021.03.03 at 20h 27m 02s.xml">
-      <configuration name="spec: ROR_Assignment" configurationId="RakeRunConfigurationType" />
-    </history-entry>
-    <history-entry file="ContactController_index__ROR_Assignment - 2021.03.03 at 20h 47m 48s.xml">
-      <configuration name="ContactController index: ROR_Assignment" configurationId="RSpecRunConfigurationType" />
-    </history-entry>
     <history-entry file="ContactController_index__ROR_Assignment - 2021.03.03 at 20h 51m 52s.xml">
       <configuration name="ContactController index: ROR_Assignment" configurationId="RSpecRunConfigurationType" />
     </history-entry>
@@ -641,20 +590,25 @@
     <history-entry file="spec__ROR_Assignment - 2021.03.03 at 21h 03m 22s.xml">
       <configuration name="spec: ROR_Assignment" configurationId="RakeRunConfigurationType" />
     </history-entry>
+    <history-entry file="spec__ROR_Assignment - 2021.03.03 at 21h 30m 41s.xml">
+      <configuration name="spec: ROR_Assignment" configurationId="RakeRunConfigurationType" />
+    </history-entry>
+    <history-entry file="spec__ROR_Assignment - 2021.03.03 at 21h 31m 24s.xml">
+      <configuration name="spec: ROR_Assignment" configurationId="RakeRunConfigurationType" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22430000" />
+    <option name="totallyTimeSpent" value="24353000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25885227" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5581633" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5581633" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.5581633" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -662,7 +616,7 @@
       <window_info anchor="bottom" id="Docker" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.55510205" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.55510205" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32959184" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -770,16 +724,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="294">
-            <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.ruby-version">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -796,9 +740,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-318" />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/schema.rb">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/gems/actionpack-6.0.3.5/lib/action_controller/metal/request_forgery_protection.rb">
       <provider selected="true" editor-type-id="text-editor">
@@ -818,20 +759,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-711">
           <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="56" column="34" selection-start-line="56" selection-start-column="34" selection-end-line="56" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile.lock">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3435">
-          <caret line="229" column="12" selection-start-line="229" selection-start-column="12" selection-end-line="229" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -857,9 +784,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/db/seeds.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/development.sqlite3">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
@@ -917,13 +841,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/user.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spec/rails_helper.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="975">
@@ -959,24 +876,73 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/db/development.sqlite3">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2175">
+          <caret line="145" column="23" selection-start-line="145" selection-start-column="23" selection-end-line="145" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/gems/activerecord-6.0.3.5/lib/active_record/inheritance.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="127">
           <caret line="49" column="10" selection-start-line="49" selection-start-column="10" selection-end-line="49" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/gems/activerecord-6.0.3.5/lib/active_record/persistence.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="468" column="8" selection-start-line="468" selection-start-column="8" selection-end-line="468" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/contact_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        <state relative-caret-position="315">
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/ROR_Assignment.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/dataSources.local.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/dataSources.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/test.sqlite3">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/schema.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="26" selection-start-line="21" selection-start-column="38" selection-end-line="22" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/user.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/coverage/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="81" lean-forward="true" selection-start-line="5" selection-start-column="81" selection-end-line="5" selection-end-column="81" />
+          <caret line="5" column="81" selection-start-line="5" selection-start-column="81" selection-end-line="5" selection-end-column="81" />
           <folding>
             <element signature="e#7592#7596#0" expanded="true" />
             <element signature="e#9670#9676#0" expanded="true" />
@@ -986,73 +952,33 @@
             <element signature="e#12022#12026#0" expanded="true" />
             <element signature="e#13443#13448#0" expanded="true" />
             <element signature="e#13456#13461#0" expanded="true" />
-            <element signature="e#17305#17310#0" expanded="true" />
-            <element signature="e#17311#17316#0" expanded="true" />
-            <element signature="e#19847#19851#0" expanded="true" />
-            <element signature="e#20110#20115#0" expanded="true" />
-            <element signature="e#20131#20136#0" expanded="true" />
-            <element signature="e#20369#20374#0" expanded="true" />
-            <element signature="e#20380#20385#0" expanded="true" />
-            <element signature="e#21322#21326#0" expanded="true" />
-            <element signature="e#21584#21589#0" expanded="true" />
-            <element signature="e#21611#21616#0" expanded="true" />
-            <element signature="e#22538#22543#0" expanded="true" />
-            <element signature="e#22567#22572#0" expanded="true" />
-            <element signature="e#22831#22836#0" expanded="true" />
-            <element signature="e#22857#22862#0" expanded="true" />
-            <element signature="e#24012#24016#0" expanded="true" />
-            <element signature="e#25210#25214#0" expanded="true" />
-            <element signature="e#27816#27821#0" expanded="true" />
-            <element signature="e#27833#27838#0" expanded="true" />
-            <element signature="e#28284#28289#0" expanded="true" />
-            <element signature="e#28294#28299#0" expanded="true" />
-            <element signature="e#28571#28576#0" expanded="true" />
-            <element signature="e#28577#28582#0" expanded="true" />
-            <element signature="e#28855#28860#0" expanded="true" />
-            <element signature="e#28868#28873#0" expanded="true" />
-            <element signature="e#29540#29545#0" expanded="true" />
-            <element signature="e#29550#29555#0" expanded="true" />
-            <element signature="e#29807#29812#0" expanded="true" />
-            <element signature="e#29843#29848#0" expanded="true" />
-            <element signature="e#31199#31204#0" expanded="true" />
-            <element signature="e#31210#31215#0" expanded="true" />
-            <element signature="e#31467#31472#0" expanded="true" />
-            <element signature="e#31494#31499#0" expanded="true" />
-            <element signature="e#31942#31948#0" expanded="true" />
-            <element signature="e#31958#31964#0" expanded="true" />
-            <element signature="e#31966#31971#0" expanded="true" />
-            <element signature="e#31975#31980#0" expanded="true" />
-            <element signature="e#32184#32190#0" expanded="true" />
-            <element signature="e#32199#32205#0" expanded="true" />
-            <element signature="e#32207#32212#0" expanded="true" />
-            <element signature="e#32215#32220#0" expanded="true" />
-            <element signature="e#32424#32430#0" expanded="true" />
-            <element signature="e#32435#32441#0" expanded="true" />
-            <element signature="e#32443#32448#0" expanded="true" />
-            <element signature="e#32465#32470#0" expanded="true" />
-            <element signature="e#32674#32680#0" expanded="true" />
-            <element signature="e#32685#32691#0" expanded="true" />
-            <element signature="e#32693#32698#0" expanded="true" />
-            <element signature="e#32706#32711#0" expanded="true" />
-            <element signature="e#32915#32921#0" expanded="true" />
-            <element signature="e#32928#32934#0" expanded="true" />
-            <element signature="e#32936#32941#0" expanded="true" />
-            <element signature="e#32943#32948#0" expanded="true" />
-            <element signature="e#34512#34517#0" expanded="true" />
-            <element signature="e#34522#34527#0" expanded="true" />
-            <element signature="e#34779#34784#0" expanded="true" />
-            <element signature="e#34822#34827#0" expanded="true" />
-            <element signature="e#35122#35126#0" expanded="true" />
-            <element signature="e#35126#35132#0" expanded="true" />
-            <element signature="e#35136#35142#0" expanded="true" />
-            <element signature="e#35156#35160#0" expanded="true" />
-            <element signature="e#35160#35166#0" expanded="true" />
-            <element signature="e#35173#35179#0" expanded="true" />
-            <element signature="e#36726#36731#0" expanded="true" />
-            <element signature="e#36743#36748#0" expanded="true" />
-            <element signature="e#37181#37186#0" expanded="true" />
-            <element signature="e#37206#37211#0" expanded="true" />
+            <element signature="e#16224#16229#0" expanded="true" />
+            <element signature="e#16230#16235#0" expanded="true" />
+            <element signature="e#18766#18770#0" expanded="true" />
+            <element signature="e#19029#19034#0" expanded="true" />
+            <element signature="e#19050#19055#0" expanded="true" />
+            <element signature="e#19288#19293#0" expanded="true" />
+            <element signature="e#19299#19304#0" expanded="true" />
+            <element signature="e#20241#20245#0" expanded="true" />
+            <element signature="e#20503#20508#0" expanded="true" />
+            <element signature="e#20530#20535#0" expanded="true" />
+            <element signature="e#21457#21462#0" expanded="true" />
+            <element signature="e#21486#21491#0" expanded="true" />
+            <element signature="e#21750#21755#0" expanded="true" />
+            <element signature="e#21776#21781#0" expanded="true" />
+            <element signature="e#22931#22935#0" expanded="true" />
+            <element signature="e#24129#24133#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="323">
+            <caret line="40" column="42" selection-start-line="40" selection-start-column="42" selection-end-line="40" selection-end-column="42" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
