@@ -47,7 +47,7 @@ yarn-debug.log*
 .rigmarole
 .bundle
 .config
-coverage
+/coverage
 /db/*.sqlite3
 /log/*.log
 rdoc
