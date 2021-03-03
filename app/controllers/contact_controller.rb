@@ -3,7 +3,7 @@
 # Rails controller for ContactV17 form page
 class ContactController < ApplicationController
 
-  skip_before_action :verify_authenticity_token, only: [:save]
+  skip_before_action :verify_authenticity_token, only: [:create]
 
   # Controller method to render contact form page
   def index
@@ -11,19 +11,16 @@ class ContactController < ApplicationController
   end
 
   # Controller method to create user data
-  def new
-    @user = User.new
-  end
-
-  # Controller method to save user data
-  def save
+  def create
     @user = User.new(user_params)
 
     # Tell the UserMailer to send a welcome email after save
     UserMailer.with(user: @user).welcome_email.deliver
 
     # Redirect to same form page
-    redirect_to('/contact')
+    if @user.save
+      redirect_to '/'
+    end
   end
 
   # Only allow a list of trusted parameters through.
