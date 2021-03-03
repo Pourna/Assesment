@@ -39,3 +39,19 @@
 /yarn-error.log
 yarn-debug.log*
 .yarn-integrity
+
+# Ignore idea folder
+/.idea/*
+
+# Ignore all auto generated files or reports
+.rigmarole
+.bundle
+.config
+coverage
+/db/*.sqlite3
+/log/*.log
+rdoc
+spec/reports
+tmp
+/target
+.rubocop-*
